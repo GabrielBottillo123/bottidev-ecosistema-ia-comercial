@@ -75,7 +75,7 @@ El workflow completo exportado en formato JSON está incluido en el repositorio:
 
 La documentación completa del proyecto incluye la descripción del sistema, estructura de datos, seguridad, resiliencia, pruebas, optimización de costos, prompt utilizado y resultados.
 
-[Ver documentación final](./Entrega-Final-AI-Automation.pdf)
+[Ver documentación final](./Entrega-Final-Automation.pdf)
 
 ## Mapa de arquitectura
 
